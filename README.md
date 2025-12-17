@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Mutwiri+Ian;Computer+Science+Student;Full-Stack+Developer;Open+to+Internships+%26+Projects)](https://git.io/typing-svg)
-
 # 👋 Hi, I'm Mutwiri Ian
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imutwiri&label=Profile%20Views&color=0e75b6&style=flat)  
@@ -37,7 +35,7 @@ Explore more of my work in the repositories tab: https://github.com/imutwiri?tab
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 *(Currently leveling up on Node.js, RESTful APIs, and cloud deployment pipelines.)*
 
 ---
@@ -48,7 +46,8 @@ Explore more of my work in the repositories tab: https://github.com/imutwiri?tab
 - 🔹 FarmChain — Produce traceability platform for Kenyan agriculture.  
 - 🔹 Church Management System — Member, event & finance management app.  
 - 🔹 ElimuTech — E-learning platform for students and professionals.  
-- 🔹 SkillMatch — Connect people by trading skills & services.
+- 🔹 SkillMatch — Connect people by trading skills & services.  
+- 🔹 [NodeJS Backend Course](https://github.com/imutwiri/NodeJS-Backend-Course) — Node.js + TypeScript examples demonstrating core Node.js APIs.
 
 ---
 
@@ -75,4 +74,4 @@ Explore more of my work in the repositories tab: https://github.com/imutwiri?tab
 ---
 
 ⭐️ "Code. Learn. Share. Repeat."  
-_Last updated: 2025-10-11_
+_Last updated: 2025-12-17_
