@@ -1,4 +1,4 @@
-# Hi there, I'm imutwiri 👋
+# Hi there, I'm Mutwiri 👋
 
 [![Follow](https://img.shields.io/github/followers/imutwiri?label=Follow&style=social)](https://github.com/imutwiri)
 [![Profile Views](https://komarev.com/ghpvc/?username=imutwiri&color=brightgreen)](https://github.com/imutwiri)
@@ -11,9 +11,9 @@ I build reliable, maintainable backend systems and scalable web applications wit
 
 ## 🔭 Technical summary
 - Primary focus: backend systems, APIs, distributed services, and DevOps automation
-- Languages: TypeScript, Go, Python
+- Languages: TypeScript, PHP, Python, NodeJS
 - Architectural patterns: microservices, event-driven design, CQRS for bounded contexts
-- Infrastructure: Docker, Kubernetes, Terraform
+- Infrastructure: Docker
 - CI / CD: GitHub Actions (lint → test → build → publish)
 - Testing: unit, integration, contract tests (and property tests where appropriate)
 - Observability: structured logging, OpenTelemetry, Prometheus + Grafana
@@ -21,12 +21,11 @@ I build reliable, maintainable backend systems and scalable web applications wit
 ---
 
 ## 🧰 Tooling & Tech stack
-- Runtimes & languages: Node.js (TypeScript), Go, Python
-- Datastores: PostgreSQL, Redis, MongoDB
-- Messaging & streaming: Kafka, NATS (examples)
+- Runtimes & languages: Node.js (TypeScript), HTML, Tailwind CSS, JavaScript, Python
+- Datastores: PostgreSQL, MongoDB
+- Messaging & streaming: Kafka
 - API: REST + gRPC
-- Infra & deployment: Docker, Kubernetes, Helm, Terraform
-- Dev quality: ESLint, Prettier, Husky, Dependabot, goreleaser
+- Infra & deployment: Docker
 
 ---
 
@@ -88,8 +87,6 @@ Technical highlights and quickstarts for selected projects. If you want I can sw
   - git clone https://github.com/imutwiri/ElimuTech && cd ElimuTech
   - docker compose up -d && pip install -r requirements.txt && ./manage.py migrate && ./manage.py runserver
 
-(If any repo slug above differs from the actual repo name, tell me the exact slug and I will update the links and badges.)
-
 ---
 
 ## 🧩 Architecture & engineering practices
@@ -112,7 +109,6 @@ Technical highlights and quickstarts for selected projects. If you want I can sw
 - Location: Murang'a, Kenya
 - Email: ianmutwiri37@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ian-mutwiri-4a842a373/
-- X (Twitter): https://twitter.com/yourhandle
 
 ---
 
@@ -121,7 +117,3 @@ Contributions and issues are welcome. For code changes, open a PR with tests and
 
 ---
 
-If you'd like, I can:
-- Replace the placeholder CLI commands with exact per-repo quickstarts by reading each repo's README.
-- Add per-repo CI/coverage badges (I’ll need exact workflow names or badge URLs).
-- Commit this README.md to your profile repo (imutwiri/imutwiri). If you want that, tell me which branch to use (default: main) and provide any final values to replace placeholders (email, social...)
