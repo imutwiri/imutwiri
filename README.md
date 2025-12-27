@@ -34,8 +34,8 @@ I build reliable, maintainable backend systems and scalable web applications wit
 Technical highlights and quickstarts for selected projects. If you want I can swap placeholder commands with each repo's exact setup.
 
 - MyPortfolio — https://github.com/imutwiri/MyPortfolio  
-  [![Stars](https://img.shields.io/github/stars/imutwiri/MyPortfolio?style=flat-square)](https://github.com/imutwiri/MyPortfolio) [![Forks](https://img.shields.io/github/forks/imutwiri/MyPortfolio?style=flat-square)](https://github.com/imutwiri/MyPortfolio)  
-  Tech: TypeScript, Next.js, Vercel, Tailwind CSS  
+  [![Stars](https://img.shields.io/github/stars/imutwiri/MyPortfolio?style=flat-square)](https://github.com/imutwiri/MyPortfolio) [![Forks](https://img.shields.io/github/forks/imutwiri/MyPortfolio?style=flat-square)](https://github.com/imutwiri/MyPortfolio)
+  Top languages: HTML, CSS, JavaScript  
   Highlights:
   - SEO-optimized, server-side rendering and static exports
   - CI: lint, type-check, build, and preview deployments
@@ -46,7 +46,7 @@ Technical highlights and quickstarts for selected projects. If you want I can sw
 
 - PCEA Church Management System — https://github.com/imutwiri/PCEA-Church-Management-System  
   [![Stars](https://img.shields.io/github/stars/imutwiri/PCEA-Church-Management-System?style=flat-square)](https://github.com/imutwiri/PCEA-Church-Management-System)  
-  Tech: Node.js (TypeScript), Express/NestJS, PostgreSQL, Docker  
+  Top languages: HTML, CSS  
   Highlights:
   - Role-based access control for members, leaders, and admins
   - Event and donation management, reporting exports (CSV/PDF)
@@ -57,7 +57,7 @@ Technical highlights and quickstarts for selected projects. If you want I can sw
 
 - SkillMatch — https://github.com/imutwiri/SkillMatch  
   [![Stars](https://img.shields.io/github/stars/imutwiri/SkillMatch?style=flat-square)](https://github.com/imutwiri/SkillMatch)  
-  Tech: TypeScript, Node.js, PostgreSQL, Redis, GraphQL  
+  Top languages: HTML, JavaScript, CSS  
   Highlights:
   - Matching engine for learners and mentors (scoring + recommendations)
   - Background jobs for email notifications and match recalculation (Redis + Bull)
@@ -68,7 +68,7 @@ Technical highlights and quickstarts for selected projects. If you want I can sw
 
 - FarmChain — https://github.com/imutwiri/FarmChain  
   [![Stars](https://img.shields.io/github/stars/imutwiri/FarmChain?style=flat-square)](https://github.com/imutwiri/FarmChain)  
-  Tech: Go, gRPC, PostgreSQL, IPFS (for provenance)  
+  Top languages: HTML, CSS  
   Highlights:
   - Supply-chain provenance with cryptographic proofs
   - gRPC services with protobuf contracts and backward-compatible changes
@@ -79,7 +79,7 @@ Technical highlights and quickstarts for selected projects. If you want I can sw
 
 - ElimuTech — https://github.com/imutwiri/ElimuTech  
   [![Stars](https://img.shields.io/github/stars/imutwiri/ElimuTech?style=flat-square)](https://github.com/imutwiri/ElimuTech)  
-  Tech: Python, Django/FastAPI, PostgreSQL, Celery  
+  Top languages: HTML, PHP, Hack, CSS  
   Highlights:
   - EdTech platform with course management and progress tracking
   - Async tasks for email and report generation (Celery + Redis)
@@ -124,4 +124,4 @@ Contributions and issues are welcome. For code changes, open a PR with tests and
 If you'd like, I can:
 - Replace the placeholder CLI commands with exact per-repo quickstarts by reading each repo's README.
 - Add per-repo CI/coverage badges (I’ll need exact workflow names or badge URLs).
-- Commit this README.md to your profile repo (imutwiri/imutwiri). If you want that, tell me which branch to use (default: main) and provide any final values to replace placeholders (email, social links, exact repo slugs).
+- Commit this README.md to your profile repo (imutwiri/imutwiri). If you want that, tell me which branch to use (default: main) and provide any final values to replace placeholders (email, social...)
